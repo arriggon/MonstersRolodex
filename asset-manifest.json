@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactUdemyGuide/static/css/main.d52cd63c.chunk.css",
-    "main.js": "/ReactUdemyGuide/static/js/main.6c5c5c8c.chunk.js",
-    "main.js.map": "/ReactUdemyGuide/static/js/main.6c5c5c8c.chunk.js.map",
+    "main.js": "/ReactUdemyGuide/static/js/main.81ff0723.chunk.js",
+    "main.js.map": "/ReactUdemyGuide/static/js/main.81ff0723.chunk.js.map",
     "runtime-main.js": "/ReactUdemyGuide/static/js/runtime-main.2d92ea0d.js",
     "runtime-main.js.map": "/ReactUdemyGuide/static/js/runtime-main.2d92ea0d.js.map",
     "static/js/2.9e7d0785.chunk.js": "/ReactUdemyGuide/static/js/2.9e7d0785.chunk.js",
     "static/js/2.9e7d0785.chunk.js.map": "/ReactUdemyGuide/static/js/2.9e7d0785.chunk.js.map",
     "index.html": "/ReactUdemyGuide/index.html",
-    "precache-manifest.4418db8b602df24a4a9acb7bde2badda.js": "/ReactUdemyGuide/precache-manifest.4418db8b602df24a4a9acb7bde2badda.js",
+    "precache-manifest.a2f31e292031f8ae637337754889c4a8.js": "/ReactUdemyGuide/precache-manifest.a2f31e292031f8ae637337754889c4a8.js",
     "service-worker.js": "/ReactUdemyGuide/service-worker.js",
     "static/css/main.d52cd63c.chunk.css.map": "/ReactUdemyGuide/static/css/main.d52cd63c.chunk.css.map",
     "static/js/2.9e7d0785.chunk.js.LICENSE": "/ReactUdemyGuide/static/js/2.9e7d0785.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2d92ea0d.js",
     "static/js/2.9e7d0785.chunk.js",
     "static/css/main.d52cd63c.chunk.css",
-    "static/js/main.6c5c5c8c.chunk.js"
+    "static/js/main.81ff0723.chunk.js"
   ]
 }
